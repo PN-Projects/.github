@@ -1,3 +1,5 @@
+![PN-Projects](https://www.imghippo.com/i/dU5438eow.jpg)
+
 # Welcome to Team Prabodh Nandini
 
 This organization is a collaborative space for student developers working on open-source projects. Here, we explore and contribute to various technologies, building impactful software and solutions.
