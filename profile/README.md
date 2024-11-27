@@ -1,4 +1,4 @@
-# Welcome to [Your GitHub Organization Name]
+# Welcome to Team Prabodh Nandini
 
 This organization is a collaborative space for student developers working on open-source projects. Here, we explore and contribute to various technologies, building impactful software and solutions.
 
@@ -30,4 +30,4 @@ We are currently working with the following technologies:
 - ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ## Getting Started
-...
+
