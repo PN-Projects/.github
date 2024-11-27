@@ -1,4 +1,4 @@
-![PN-Projects](https://www.imghippo.com/i/dU5438eow.jpg)
+<a href="https://ibb.co/qnDvSZk"><img src="https://i.ibb.co/xs2Nk4J/Screenshot-2024-11-28-00-43-47-06-6012fa4d4ddec268fc5c7112cbb265e7.jpg" alt="Screenshot-2024-11-28-00-43-47-06-6012fa4d4ddec268fc5c7112cbb265e7" border="0"></a>
 
 # Welcome to Team Prabodh Nandini
 
