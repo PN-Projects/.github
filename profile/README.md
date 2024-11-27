@@ -38,7 +38,7 @@ We welcome contributions from developers of all levels! If you're interested in 
 1. **Fork the repository**: Create your own fork of this project to make changes.
 2. **Clone your fork**: Clone your fork to your local machine to start making changes.
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/Pn-projects/any-repository
     ```
 3. **Create a new branch**: Always create a new branch for your work.
     ```bash
