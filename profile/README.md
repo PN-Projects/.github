@@ -51,7 +51,7 @@ We are currently working with the following technologies:
 [![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)](https://www.heroku.com/)
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 [![Quartus II](https://img.shields.io/badge/Quartus%20II-0071C5?logo=intel&logoColor=white)](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/overview.html)
-[![Xilinx](https://img.shields.io/badge/Xilinx-0071C5?style=flat-square&logo=xilinx&logoColor=white)](https://www.xilinx.com)
+[![Xilinx](https://img.shields.io/badge/Xilinx-0071C5?style=flat-square&logo=xilinx&logoColor=red)](https://www.xilinx.com)
 
  
 
