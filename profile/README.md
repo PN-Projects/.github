@@ -59,9 +59,7 @@ We are currently working with the following technologies:
 - ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
 - ![Quartus II](https://img.shields.io/badge/Quartus%20II-0071C5?logo=intel&logoColor=white)
 - ![Xilinx](https://img.shields.io/badge/Xilinx-E01F27?logo=xilinx&logoColor=white)
-- ![Xilinx](https://img.shields.io/badge/Xilinx-E01F27?logo=xilinx&logoColor=white)
 
-  
 ## Contributing
 
 We welcome contributions from developers of all levels! If you're interested in contributing, please follow these steps:
